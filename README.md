@@ -1,9 +1,3 @@
-Claro! Aqui está **tudo em formato Markdown puro**, pronto para você **copiar, colar e usar diretamente** no seu `README.md`.
-
-Basta selecionar tudo abaixo, copiar e colar no seu arquivo — ele já está formatado, com todas as seções, exemplos e links funcionais.
-
----
-
 ```markdown
 # Tasker-Go
 
