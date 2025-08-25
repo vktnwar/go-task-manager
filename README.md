@@ -1,4 +1,3 @@
-```markdown
 # Tasker-Go
 
 Um gerenciador de tarefas simples e eficiente via linha de comando, escrito em Go. Ideal para quem prefere produtividade no terminal.
@@ -190,6 +189,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 - [ ] Adicionar cores ao output (ex: verde para concluídas)
 - [ ] Backup automático antes de salvar
 - [ ] Exportar lista para arquivo de texto
-```
 
 ---
